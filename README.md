@@ -1,4 +1,3 @@
 # BylearnerjornadaPyhtonfaixapreta
 Eu fiz um calculo de imc
-# EusouByLearner 
-:)
+Eu sou Bylearner :)
